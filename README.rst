@@ -37,10 +37,10 @@ Alternatively, install  numpy and run the following
     conda install -c ksr22 ksr_example_package
 
 **Manual installation**
-
-    1. Install dependent packages: numpy
-    2. Download ksr_example_package. Unzip it.
-    3. Add ksr_example_package into your Python path.
+ 
+1. Install dependent packages: numpy
+2. Download ksr_example_package. Unzip it.
+3. Add ksr_example_package into your Python path.
 
 
 Usage
@@ -52,7 +52,7 @@ Here's a simple example of how to use the package:
     import package
     result = package.add(5, 3)
     print(f"The result is {result}")
-    
+
 
 Contributing
 ------------
