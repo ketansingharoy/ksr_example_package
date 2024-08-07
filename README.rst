@@ -58,7 +58,7 @@ Alternatively, install  numpy and run the following
 
     1. Install dependent packages: numpy
     2. Download ksr_example_package. Unzip it.
-    2. Add ksr_example_package into your Python path.
+    3. Add ksr_example_package into your Python path.
 
 
 
