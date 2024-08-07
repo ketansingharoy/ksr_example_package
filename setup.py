@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         # List your dependencies here
-        'numpy==1.26.4'
+        'numpy'
     ],
     include_package_data=True,
     description='An example Python project',
@@ -18,5 +18,5 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
     ],
-    python_requires='>=3.10.11',
+    python_requires='>=3.10',
 )
