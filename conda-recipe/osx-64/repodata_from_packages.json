@@ -1,0 +1,24 @@
+{
+  "info": {
+    "subdir": "osx-64"
+  },
+  "packages": {
+    "ksr_example_package-0.0.1-1.tar.bz2": {
+      "build": "1",
+      "build_number": 1,
+      "depends": [
+        "python"
+      ],
+      "md5": "ec59e13f03fd103fde7cba998c1085aa",
+      "name": "ksr_example_package",
+      "sha256": "e20f99611d973a340127e130b81ef9409fa3a0cbce12aceac1007fd5cbe46ba8",
+      "size": 2819846,
+      "subdir": "osx-64",
+      "timestamp": 1723063145579,
+      "version": "0.0.1"
+    }
+  },
+  "packages.conda": {},
+  "removed": [],
+  "repodata_version": 1
+}

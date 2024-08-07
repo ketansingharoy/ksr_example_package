@@ -1,0 +1,1 @@
+{"build": "1", "build_number": 1, "depends": ["python"], "name": "ksr_example_package", "subdir": "osx-64", "timestamp": 1723063145579, "version": "0.0.1", "size": 2819846, "md5": "ec59e13f03fd103fde7cba998c1085aa", "sha256": "e20f99611d973a340127e130b81ef9409fa3a0cbce12aceac1007fd5cbe46ba8"}

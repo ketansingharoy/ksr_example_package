@@ -1,0 +1,23 @@
+﻿package
+=======
+
+.. automodule:: package
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
