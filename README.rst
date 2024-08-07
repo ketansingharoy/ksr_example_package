@@ -3,24 +3,6 @@ Introduction to an example package
 
 A Python package for example purposes. This package demonstrates basic Python package structure, setup, and documentation using Sphinx and ReadTheDocs.
 
-Installation
-------------
-
-Install the package using pip
-::
-    pip install ksr_example_package
-
-
-Usage
------
-Here's a simple example of how to use the package:
-
-.. code-block:: python
-    
-    import package
-    result = package.add(5, 3)
-    print(f"The result is {result}")
-
 Documentation
 -------------
 
@@ -61,8 +43,16 @@ Alternatively, install  numpy and run the following
     3. Add ksr_example_package into your Python path.
 
 
+Usage
+-----
+Here's a simple example of how to use the package:
 
-
+.. code-block:: python
+    
+    import package
+    result = package.add(5, 3)
+    print(f"The result is {result}")
+    
 
 Contributing
 ------------
