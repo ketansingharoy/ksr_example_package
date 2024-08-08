@@ -1,5 +1,5 @@
 Introduction to an example package
-##################################
+==================================
 
 A Python package for example purposes. This package demonstrates basic Python package structure, setup, and documentation using Sphinx and ReadTheDocs.
 
